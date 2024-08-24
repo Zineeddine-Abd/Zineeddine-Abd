@@ -1,12 +1,18 @@
-# Welcome to My GitHub Page!
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4500&pause=1000&color=1EF749&width=435&lines=Hi%2C+I'm+Zine+eddine" alt="Typing SVG" />
+</h1>
 
-## About Me Zine eddine
-
-Hello! I'm a 3rd-year Software Engineering student currently pursuing an Engineer's degree in Computer Software Engineering. Alongside my studies, I'm a social media content creator and designer. I create and share content about IT and Tech on my social media pages:
+I'm a 3rd-year Software Engineering student currently pursuing an Engineer's degree in Computer Software Engineering. Alongside my studies, I'm a social media content creator and designer. I create and share content about IT and Tech on my social media pages:
 
 - <a href="https://www.instagram.com/techtalksdz?igsh=Z25ud3FiazBleGZ6" target="_blank">TechTalksDz on Instagram</a>
 - <a href="https://www.facebook.com/profile.php?id=61564614832349&mibextid=JRoKGi" target="_blank">TechTalksDz on Facebook</a>
 - <a href="https://www.tiktok.com/@techtalks.dz?_t=8p5SmujSt9C&_r=1" target="_blank">TechTalksDz on TikTok</a>
+
+<h2 align="center">Skills</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,javascript,c,mysql,git,linux" />
+</div>
 
 ## Passion for Learning
 
