@@ -25,7 +25,7 @@ Here are a few projects that i worked on:
 - <a href="https://github.com/Zineeddine-Abd/Graph_Designer_Project.git" target="_blank">Graph_Designer_Project</a> : A Java application designed to allow users to create custom graphs and trees and apply algorithms to them. Built using pure Java and Java Swing. The project is functional but still a work in progress.
 
 ## Contact
-<a href="abdeladimzineeddine@gmail.com">
+<a href="mailto:abdeladimzineeddine@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 
