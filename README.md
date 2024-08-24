@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4500&pause=1000&color=1EF749&width=435&lines=Hi%2C+I'm+Zine+eddine" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4500&pause=1000&color=0FF72D&center=true&width=435&lines=Hi%2C+I'm+Zine+eddine" alt="Typing SVG" />
 </h1>
 
 I'm a 3rd-year Software Engineering student currently pursuing an Engineer's degree in Computer Software Engineering. Alongside my studies, I'm a social media content creator and designer. I create and share content about IT and Tech on my social media pages:
@@ -25,7 +25,13 @@ Here are a few projects that i worked on:
 - <a href="https://github.com/Zineeddine-Abd/Graph_Designer_Project.git" target="_blank">Graph_Designer_Project</a> : A Java application designed to allow users to create custom graphs and trees and apply algorithms to them. Built using pure Java and Java Swing. The project is functional but still a work in progress.
 
 ## Contact
-- <a href="https://www.linkedin.com/in/zine-eddine-abdeladim-075b742b7/" target="_blank">My LinkedIn Page</a>
+<a href="abdeladimzineeddine@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+
+<a href="https://www.linkedin.com/in/zine-eddine-abdeladim-075b742b7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
 
 ---
 
