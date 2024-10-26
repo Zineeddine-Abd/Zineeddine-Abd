@@ -11,7 +11,7 @@ I'm a 3rd-year Software Engineering student currently pursuing an Engineer's deg
 <h2 align="center">Skills</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,javascript,c,mysql,git,linux" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,python,c,mysql,git,linux" />
 </div>
 
 ## Passion for Learning
