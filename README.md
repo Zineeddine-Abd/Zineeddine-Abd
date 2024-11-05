@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4500&pause=1000&color=0FF72D&center=true&width=435&lines=Hi%2C+I'm+Zine+eddine" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4500&pause=1000&color=0FF72D&center=true&width=435&lines=Hi%2C+I'm+Zine+Eddine" alt="Typing SVG" />
 </h1>
 
 I'm a 3rd-year Software Engineering student currently pursuing an Engineer's degree in Computer Software Engineering. Alongside my studies, I'm a social media content creator and designer. I create and share content about IT and Tech on my social media pages:
