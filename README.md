@@ -11,7 +11,7 @@ I'm a 3rd-year Software Engineering student currently pursuing an Engineer's deg
 <h2 align="center">Skills</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,javascript,python,c,mysql,git,linux" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,nodejs,react,express,git,linux" />
 </div>
 
 ## Passion for Learning
@@ -22,7 +22,8 @@ I'm deeply passionate about learning new things and continually expanding my kno
 
 Here are a few projects that i worked on:
 
-- <a href="https://github.com/Zineeddine-Abd/Graph_Designer_Project.git" target="_blank">Graph_Designer_Project</a> : A Java application designed to allow users to create custom graphs and trees and apply algorithms to them. Built using pure Java and Java Swing. The project is functional but still a work in progress.
+- <a href="https://github.com/Zineeddine-Abd/Graph_Designer_Project" target="_blank">Graph_Designer_Project</a> : A Java application designed to allow users to create custom graphs and trees and apply algorithms to them. Built using pure Java and Java Swing. The project is functional but still a work in progress.
+- <a href="https://github.com/Zineeddine-Abd/Qubit_Ai" target="_blank">Qubit_Ai</a> : an intelligent, structured, and versatile IT chatbot designed to respond to a wide range of IT-related topics built using mern stack. With Qubit, users can easily explore technical concepts, and enhance their understanding of various IT domains.
 
 ## Contact
 <a href="mailto:abdeladimzineeddine@gmail.com">
