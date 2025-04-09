@@ -23,6 +23,7 @@ I'm deeply passionate about learning new things and continually expanding my kno
 Here are a few projects that i worked on:
 
 - <a href="https://github.com/Zineeddine-Abd/Graph_Designer_Project" target="_blank">Graph_Designer_Project</a> : A Java application designed to allow users to create custom graphs and trees and apply algorithms to them. Built using pure Java and Java Swing. The project is functional but still a work in progress.
+- <a href="https://github.com/Zineeddine-Abd/Stockify" target="_blank">Stockify</a> : Stockify is an IT asset management system designed specifically for universities. Developed using pure Java and JavaFX, with Supabase integrated as our online centralized database, Stockify provides a comprehensive solution for managing IT assets efficiently.
 - <a href="https://github.com/Zineeddine-Abd/Qubit_Ai" target="_blank">Qubit_Ai</a> : an intelligent, structured, and versatile IT chatbot designed to respond to a wide range of IT-related topics built using mern stack. With Qubit, users can easily explore technical concepts, and enhance their understanding of various IT domains.
 
 ## Contact
